@@ -27,19 +27,19 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-    <img src="https://img.shields.io/badge/Badge1-Label-blue" alt="Badge 1" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+<img src="https://img.shields.io/badge/Badge1-Label-blue" alt="Badge 1" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     
-    <img src="https://img.shields.io/badge/Badge2-Label-green" alt="Badge 2" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+<img src="https://img.shields.io/badge/Badge2-Label-green" alt="Badge 2" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     
-    <img src="https://img.shields.io/badge/Badge3-Label-red" alt="Badge 3" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+ <img src="https://img.shields.io/badge/Badge3-Label-red" alt="Badge 3" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     
-    <img src="https://img.shields.io/badge/Badge4-Label-yellow" alt="Badge 4" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+<img src="https://img.shields.io/badge/Badge4-Label-yellow" alt="Badge 4" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     
-    <img src="https://img.shields.io/badge/Badge5-Label-purple" alt="Badge 5" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+<img src="https://img.shields.io/badge/Badge5-Label-purple" alt="Badge 5" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     
-    <img src="https://img.shields.io/badge/Badge6-Label-orange" alt="Badge 6" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+<img src="https://img.shields.io/badge/Badge6-Label-orange" alt="Badge 6" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     
-    <img src="https://img.shields.io/badge/Badge7-Label-cyan" alt="Badge 7" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+ <img src="https://img.shields.io/badge/Badge7-Label-cyan" alt="Badge 7" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
 
 </div>
 
