@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<p align=”center”>
+<p align="center">
 
-<img width=”200" height=”200" src=”banner.png" alt=”my banner”>
+<img width="200" height="200" src="./banner.png" alt="my banner">
 
 </p>
 
