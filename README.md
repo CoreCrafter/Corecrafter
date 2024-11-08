@@ -6,7 +6,7 @@
 
 </p>
 
-- 🔭 <p style="font-weight: bold;">I’m currently working on</p>
+## 🔭 I’m currently working on
 - A memory allocator suitable for embedded systems
 - A garbage collector in c for the c itself
 - A simple programming language written in c 
