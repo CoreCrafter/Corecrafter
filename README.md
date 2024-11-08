@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img width="800" height="200" src="./banner.png" alt="my banner">
+<img width="800" height="250" src="./banner.png" alt="my banner">
 
 </p>
 
