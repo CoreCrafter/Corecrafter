@@ -6,6 +6,11 @@
 
 </p>
 
+- 🔭 I’m currently working on
+- A memory allocator suitable for embeded systems
+- A garbage collector in c for the c itself
+- A simple programming language written in c 
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -29,7 +34,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
