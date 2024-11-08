@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<p align=”center”>
+
+<img width=”200" height=”200" src=”Banner.avif" alt=”my banner”>
+
+</p>
+
+
 <!--
 **CoreCrafter/Corecrafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
