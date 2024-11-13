@@ -12,7 +12,6 @@ I enjoy diving deep into the intricacies of programming languages and systems ar
 As I progress in my journey, I am excited to share my projects and collaborate with others in the tech community 🤝
 
 ## 🔭 I’m currently working on
-- A memory allocator suitable for embedded systems (a more optimized version of TornadoAllocator) 
 - A simple programming language written in c 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
