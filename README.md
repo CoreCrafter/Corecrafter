@@ -7,12 +7,18 @@
 </p>
 
 ## 📝 Bio 
-I'm a passionate computer science enthusiast 💻 with a strong focus on system programming ⚙️. Currently, I am self-taught 📚 and dedicated to enhancing my skills through hands-on projects and continuous learning.
-I enjoy diving deep into the intricacies of programming languages and systems architecture, exploring how they interact at a low level. My goal is to develop robust applications and tools that can solve real-world problems 🌍.
-As I progress in my journey, I am excited to share my projects and collaborate with others in the tech community 🤝
+I'm a passionate computer science enthusiast with a strong focus on system programming. Currently, I am self-taught and dedicated to enhancing my skills through hands-on projects and continuous learning.
+I enjoy diving deep into the intricacies of programming languages and systems architecture, exploring how they interact at a low level. My goal is to develop robust applications and tools that can solve real-world problems .
+As I progress in my journey, I am excited to share my projects and collaborate with others in the tech community 
 
 ## 🔭 I’m currently working on
 - A simple programming language written in c 
+- Solving DSA Problems
+
+## 📫 How to reach me: 
+- Gmail: mojtabaakhbari.cs@gmail.com
+
+
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
