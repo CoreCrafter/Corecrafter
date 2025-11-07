@@ -36,6 +36,10 @@ As I progress in my journey, I am excited to share my projects and collaborate w
     
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime Text" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime Text" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+
+
+
 </div>
 <!--
 **CoreCrafter/Corecrafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
